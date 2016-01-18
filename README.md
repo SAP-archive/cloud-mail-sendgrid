@@ -4,7 +4,11 @@ This repository contains examples of applications that use Sendgrid (APIs and Ja
 
 There are two applications, one using [Sendgrid's APIs](https://sendgrid.com/docs/API_Reference/index.html) and the other one using [Sendgrid's Java Library](https://github.com/sendgrid/sendgrid-java). 
 
-For a quick start, clone the repository (TODO: clone command). Then go to each of the folder and read the descriptions in the respective **readme.md** files to learn more about their usage.
+For a quick start, clone the repository:
+
+`git clone https://github.com/SAP/cloud-mail-sendgrid.git`
+
+Then go to each of the folder and read the descriptions in the respective **readme.md** files to learn more about their usage. For a detailed explanation of the code, please follow the [wiki](https://github.com/SAP/cloud-mail-sendgrid/wiki).
 
 For more information about the HANA Cloud Platform, please have a look [here](http://hcp.sap.com/). 
 For more information about Sendgrid, please access this [link](https://sendgrid.com/).
