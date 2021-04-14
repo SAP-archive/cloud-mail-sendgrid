@@ -1,3 +1,9 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained.
+
+
 ## Using Sendgrid on HCP example##
 
 This repository contains examples of applications that use Sendgrid (APIs and Java Library) for transactional email capabilities and can be deployed on the HANA Cloud Platform.
